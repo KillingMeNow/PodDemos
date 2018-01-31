@@ -1,0 +1,19 @@
+platform:ios,'8.0'
+use_frameworks!
+target 'PodTest' do
+pod 'MBProgressHUD’
+pod 'Alamofire'
+pod 'DZNEmptyDataSet'
+pod 'SwiftyJSON'
+pod 'MWPhotoBrowser'
+pod 'SZTextView'
+pod 'CryptoSwift','<=0.6.9'
+pod 'PromiseKit'
+pod 'AMScrollingNavbar','3.0.0'
+pod 'DeviceKit', '~> 1.0'
+pod 'Siren', :git => 'https://github.com/ArtSabintsev/Siren.git', :branch => 'swift3.1'
+pod 'SnapKit','3.2.0'
+pod "SwiftSpinner"
+pod 'JKCountDownButton' 
+pod 'MJRefresh'
+end

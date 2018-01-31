@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>sub</key>
+        <string>多语言支持</string>
+        <key>name</key>
+        <string>MultiLanguage</string>
+        <key>stryid</key>
+        <string>MultiLanguage_ViewController</string>
+    </dict>
+	<dict>
+		<key>sub</key>
+		<string>一款简单的 iOS 照片浏览控件</string>
+		<key>name</key>
+		<string>MWPhotoBrowser</string>
+        <key>stryid</key>
+        <string>MWPhotoBrowser_ViewController</string>
+	</dict>
+    <dict>
+        <key>sub</key>
+        <string>支持占位符的 UITextView 子类扩展</string>
+        <key>name</key>
+        <string>SZTextView</string>
+        <key>stryid</key>
+        <string>MPTextView_ViewController</string>
+    </dict>
+    <dict>
+        <key>sub</key>
+        <string>swift加密库, 支持md5,sha1,sha224,sha256...</string>
+        <key>name</key>
+        <string>CryptoSwift</string>
+        <key>stryid</key>
+        <string>CryptoSwift_ViewController</string>
+    </dict>
+    <dict>
+        <key>sub</key>
+        <string>PromiseKit是iOS/OS X 中一个用来出来异步编程框架</string>
+        <key>name</key>
+        <string>PromiseKit</string>
+        <key>stryid</key>
+        <string>PromiseKit_ViewController</string>
+    </dict>
+    
+    <dict>
+        <key>sub</key>
+        <string>navigationController 随动</string>
+        <key>name</key>
+        <string>AMScrollingNavbar</string>
+        <key>stryid</key>
+        <string>AMScrollingNavbar_ViewController</string>
+    </dict>
+    <dict>
+        <key>sub</key>
+        <string>获取设备信息和电池电量</string>
+        <key>name</key>
+        <string>DeviceKit</string>
+        <key>stryid</key>
+        <string>DeviceKit_ViewController</string>
+    </dict>
+    <dict>
+        <key>sub</key>
+        <string>当应用更新时，通知用户并提供App Store链接 </string>
+        <key>name</key>
+        <string>Siren</string>
+        <key>stryid</key>
+        <string>Siren_ViewController</string>
+    </dict>
+    <dict>
+        <key>sub</key>
+        <string>SnapKit is a DSL to make Auto Layout easy on both iOS and OS X</string>
+        <key>name</key>
+        <string>SnapKit</string>
+        <key>stryid</key>
+        <string>SnapKit_ViewController</string>
+    </dict>
+    <dict>
+        <key>sub</key>
+        <string>弹出框</string>
+        <key>name</key>
+        <string>SwiftSpinner</string>
+        <key>stryid</key>
+        <string>SwiftSpinner_ViewController</string>
+    </dict>
+    <dict>
+        <key>sub</key>
+        <string>倒计时button</string>
+        <key>name</key>
+        <string>JKCountDownButton</string>
+        <key>stryid</key>
+        <string>JKCountDownButton_ViewController</string>
+    </dict>
+    <dict>
+        <key>sub</key>
+        <string>空datatable展示以及MJRefresh</string>
+        <key>name</key>
+        <string>DZNEmptyDataSet和MJRefresh</string>
+        <key>stryid</key>
+        <string>DZNEmptyDataSet_ViewController</string>
+    </dict>
+	</array>
+</plist>
